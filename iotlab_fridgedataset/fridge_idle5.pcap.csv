@@ -1,0 +1,5 @@
+frame.number|frame.time|frame.time_delta|frame.time_relative|eth.src_resolved|eth.dst_resolved|eth.src|eth.dst|eth.type|ip.version|ip.hdr_len|ip.len|ip.id|ip.flags.df|ip.flags.mf|ip.flags.rb|ip.flags.sf|ip.dsfield.dscp|ip.dsfield.ecn|ip.tos|ip.ttl|ip.proto|ip.src|ip.dst|udp.srcport|udp.dstport|udp.length|tcp.flags.cwr|tcp.flags.ecn|tcp.flags.urg|tcp.flags.ack|tcp.flags.push|tcp.flags.reset|tcp.flags.syn|tcp.flags.fin|tcp.flags.res|tcp.flags.ns|tcp.payload|tcp.len|frame.len
+1|Feb 24, 2020 16:16:17.295826000 CST|0.000000000|0.000000000|Wisol_39:25:6e|Broadcast|70:2c:1f:39:25:6e|ff:ff:ff:ff:ff:ff|0x00000806|||||||||||||||||||||||||||||||60
+2|Feb 24, 2020 16:16:17.295931000 CST|0.000105000|0.000105000|Nvidia_e4:08:c5|Wisol_39:25:6e|00:04:4b:e4:08:c5|70:2c:1f:39:25:6e|0x00000806|||||||||||||||||||||||||||||||42
+3|Feb 24, 2020 16:16:37.296137000 CST|20.000206000|20.000311000|Wisol_39:25:6e|Broadcast|70:2c:1f:39:25:6e|ff:ff:ff:ff:ff:ff|0x00000806|||||||||||||||||||||||||||||||60
+4|Feb 24, 2020 16:16:37.296232000 CST|0.000095000|20.000406000|Nvidia_e4:08:c5|Wisol_39:25:6e|00:04:4b:e4:08:c5|70:2c:1f:39:25:6e|0x00000806|||||||||||||||||||||||||||||||42

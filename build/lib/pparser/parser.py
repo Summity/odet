@@ -186,7 +186,6 @@ def _pcap2flows(pcap_file, flow_pkts_thres=2, *, tcp_timeout=600, udp_timeout=60
               f'and >={flow_pkts_thres} pkts: {n_gt_2}')
         print(f'kept flows: {len(new_flows)}. Each of them has at least {flow_pkts_thres} pkts')
 
-    # print(new_flows)
     return new_flows
 
 
