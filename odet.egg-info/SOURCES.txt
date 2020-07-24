@@ -5,8 +5,13 @@ examples/ndm/ndm_demo.py
 examples/pparser/__init__.py
 examples/pparser/pparser_demo.py
 ndm/__init__.py
+ndm/ae.py
+ndm/gmm.py
+ndm/iforest.py
+ndm/kde.py
 ndm/model.py
 ndm/ocsvm.py
+ndm/pca.py
 odet.egg-info/PKG-INFO
 odet.egg-info/SOURCES.txt
 odet.egg-info/dependency_links.txt
