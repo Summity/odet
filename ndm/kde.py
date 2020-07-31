@@ -9,7 +9,7 @@ from pyod.models.base import BaseDetector
 from pyod.utils import invert_order
 from sklearn.compose._column_transformer import _check_X
 from sklearn.neighbors import KernelDensity
-from sklearn.neighbors._kde import VALID_KERNELS
+from sklearn.neighbors.kde import VALID_KERNELS
 
 
 class KDE(KernelDensity, BaseDetector):
